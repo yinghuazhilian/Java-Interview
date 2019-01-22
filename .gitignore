@@ -24,6 +24,6 @@
 
 # ignore .git .githun inline dirs
 **/.git/
-**/.github/
+# **/.github/
 
 **/node_modules/
